@@ -120,3 +120,10 @@ DB_PW='xxx'
 ```
 
 ## Links
+
+GooleDrive
+https://drive.google.com/file/d/1unSOERb-QTIU1aMaLaQxFaSTevJwwvm1/view 
+
+Deployed
+
+ https://ymuzhych.github.io/E-commerce-Back-End/ 
